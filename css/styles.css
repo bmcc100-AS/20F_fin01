@@ -1,0 +1,52 @@
+body {
+	background-color: #0fa42e;
+	font-family: 'Lato', sans-serif;
+	max-width: 960px;
+	border: 3px solid #ffffff;
+	margin: 0 auto 0 auto;
+
+}
+h2 {
+	color: #10772f;
+	color: #0355ca;
+	/*font-family: Arial, sans-serif;*/
+	font-family: 'Montserrat', sans-serif;
+	font-size: 36px; 
+	text-align: center;
+	
+}
+h3 {
+	font-weight: 700;
+	text-transform: uppercase;
+}
+p {
+	font-family: Verdana, sans-serif;
+}
+.nav a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #ffffff;
+	padding: 10px 20px 10px 20px;
+	border: 1px dotted #ffffff;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.nav {
+	text-align: center;
+}
+.nav li{
+	display: inline;
+}
+.garden {
+	text-align: center;
+}
+.recipe {
+	padding: 30px;
+	background-color: #ffffff;
+}
+
+
+
+
+
